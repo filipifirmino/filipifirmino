@@ -14,6 +14,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ic3web&show_icons=true&locale=en&layout=compact" alt="ic3web" /></p>
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ic3web&show_icons=true&theme=dark&title_color=87f299&text_color=ffffff&locale=pt-br" alt="ic3web" /></p>
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/filipifirmino/) 
