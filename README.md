@@ -1,6 +1,5 @@
 
 ### Oi, Eu sou o Filipi! 👋<br>
-### Dev front-End Jr.
 ---
 
 Recentemente me graduei em ADS e agora estou me especializando desenvolvimento web na
