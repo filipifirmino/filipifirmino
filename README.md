@@ -1,6 +1,6 @@
 
-###Oi, Eu sou o Filipi! 👋
-###Dev front-End Jr.
+### Oi, Eu sou o Filipi! 👋<br>
+### Dev front-End Jr.
 ---
 
 Recentemente me graduei em ADS e agora estou me especializando desenvolvimento web na
@@ -10,9 +10,9 @@ Trybe. Sou apaixonado por tecnologia e como ela impacta a vida das pessoas.
     	const { JavaScritp, HTML5, CSS3, PHP, Java } = code;
 		const {ReactJs, Redux, ContextApi, Jest, RTL, scrum} = tools;
     }
-#####Meu portfólio :tw-1f47e:
-###[:tw-1f4c3: Portfolio](https://ic3web.github.io/)
-O que eu tenho feito por aqui :tw-1f447:
+#### Meu portfólio :rocket:
+### [:page_with_curl: Portfolio](https://ic3web.github.io/)
+O que eu tenho feito por aqui :point_down:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ic3web&show_icons=true&theme=dark&title_color=87f299&text_color=ffffff&locale=pt-br" alt="ic3web" /></p>
 
