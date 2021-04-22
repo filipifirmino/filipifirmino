@@ -6,7 +6,7 @@ Recentemente me graduei em ADS e agora estou me especializando desenvolvimento w
 Trybe. Sou apaixonado por tecnologia e como ela impacta a vida das pessoas.
 
     const aboutMe => ( code, tools) {
-      const { JavaScritp, HTML5, CSS3, PHP, Java } = code;
+      const { JavaScritp, HTML5, CSS3, PHP } = code;
       const {ReactJs, Redux, ContextApi, Jest, RTL, scrum} = tools;
     }
 #### Meu portfólio :rocket:
