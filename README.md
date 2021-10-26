@@ -9,8 +9,7 @@ Trybe. Sou apaixonado por tecnologia e como ela impacta a vida das pessoas.
       const { JavaScritp, HTML5, CSS3, PHP, python } = code;
       const {ReactJs, Redux, ContextApi, NodeJs, Express, SQL, MongoDb, Jest, RTL, scrum} = tools;
     }
-#### Meu portfólio :rocket:
-### [:page_with_curl: Portfolio](https://ic3web.github.io/)
+
 O que eu tenho feito por aqui :point_down:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ic3web&show_icons=true&theme=dark&title_color=87f299&text_color=ffffff&locale=pt-br" alt="ic3web" /></p>
