@@ -6,8 +6,8 @@ Recentemente me graduei em ADS e agora estou me especializando desenvolvimento w
 Trybe. Sou apaixonado por tecnologia e como ela impacta a vida das pessoas.
 
     const aboutMe => ( code, tools) {
-      const { JavaScritp, HTML5, CSS3, PHP, python } = code;
-      const {ReactJs, Redux, ContextApi, NodeJs, Express, SQL, MongoDb, Jest, RTL, scrum} = tools;
+      const { JavaScritp, HTML5, CSS3, C#, python } = code;
+      const {ReactJs, Redux, ContextApi, NodeJs, Express,.NET, SQL, MongoDb, Jest, RTL, scrum} = tools;
     }
 
 O que eu tenho feito por aqui :point_down:
