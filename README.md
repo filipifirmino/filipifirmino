@@ -1,16 +1,40 @@
 
-### Oi, Eu sou o Filipi! 👋<br>
+# 👋 Olá, eu sou o Filipi Firmino!  
+
 ---
 
-Recentemente me graduei em ADS e agora estou me especializando desenvolvimento web na
-Trybe. Sou apaixonado por tecnologia e como ela impacta a vida das pessoas.
+🎯 **Desenvolvedor Back-End .NET | Apaixonado por tecnologia e arquitetura de software**  
 
-    const aboutMe => ( code, tools) {
-      const { JavaScritp, HTML5, CSS3, C#, python } = code;
-      const {ReactJs, Redux, ContextApi, NodeJs, Express,.NET, SQL, MongoDb, Jest, RTL, scrum} = tools;
-    }
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente sigo me especializando em **desenvolvimento web e arquitetura de sistemas**.  
+Tenho como missão escrever código limpo, performático e escalável, sempre buscando evoluir como profissional e entregar soluções que realmente façam diferença.  
 
-O que eu tenho feito por aqui :point_down:
+---
+
+## ⚡ Sobre mim no "modo dev":
+
+```csharp
+public class FilipiFirmino {
+    public string Role => "Backend Developer (.NET | C#)";
+
+    public string[] Languages => { "C#", "JavaScript", "Python", "SQL" };
+
+    public string[] Tools => { "ASP.NET Core", "Entity Framework", "MongoDB", 
+                               "Node.js", "Express", "React", "Redux" };
+
+    public string[] Interests => { "Clean Architecture", "DDD","TDD", "OO" "Microservices",
+                                   "Cloud Computing", "Testing & Quality"};
+    
+    public string[] Values => { "Código limpo", "Boas práticas", "Evolução contínua" };
+}
+````
+
+🚀 O que tenho feito por aqui:
+<ul>
+ <li>Explorando .NET avançado e práticas de arquitetura limpa</li>
+ <li>Estudando padrões de projeto e DDD para criar sistemas robustos</li>
+ <li>Trabalhando em projetos que envolvem SQL, MongoDB e microserviços</li>
+ <li>Compartilhando aprendizados e evoluindo a cada commit</li>
+</ul>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filipifirmino&show_icons=true&theme=dark&title_color=87f299&text_color=ffffff&locale=pt-br" alt="filipifirmino" /></p>
 
