@@ -24,7 +24,7 @@ public class FilipiFirmino {
     public string[] Interests => { "Clean Architecture", "DDD","TDD", "OO", "Microservices",
                                    "Cloud Computing", "Testing & Quality"};
     
-    public string[] Values => { "Código limpo", "Boas práticas", "Evolução contínua" };
+    public string[] Values => { "Clean Code", "Best pratices", "Continuos evolution" };
 }
 ````
 
