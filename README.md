@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou o Filipi Firmino!  
+# 👋 Olá, eu sou o Filipi!  
 
 ---
 
