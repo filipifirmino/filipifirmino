@@ -1,42 +1,150 @@
+# 👋 Olá, eu sou o Filipi Firmino!
 
-# 👋 Olá, eu sou o Filipi!  
+### 💙 Backend Engineer • .NET • C# • Software Architecture
+
+> _"Transformando regras de negócio em soluções escaláveis, performáticas e fáceis de manter."_
+
+Sou **Engenheiro de Software Back-end** apaixonado por arquitetura de software, microsserviços e boas práticas de desenvolvimento.
+
+Gosto de resolver problemas complexos de forma simples, escrever código limpo e construir sistemas que continuem fáceis de evoluir daqui a alguns anos.
+
+Atualmente meu foco está em **.NET**, arquitetura distribuída, computação em nuvem e desenvolvimento de aplicações escaláveis.
 
 ---
 
-🎯 **Desenvolvedor Back-End .NET | Apaixonado por tecnologia e arquitetura de software**  
+# 🛠️ Tech Stack
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente sigo me especializando em **desenvolvimento web e arquitetura de sistemas**.  
-Tenho como missão escrever código limpo, performático e escalável, sempre buscando evoluir como profissional e entregar soluções que realmente façam diferença.  
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 💻 Linguagens
+
+- C#
+- SQL
+- JavaScript
+- Python
+
+### ⚙️ Backend
+
+- .NET
+- ASP.NET Core
+- Entity Framework Core
+- Dapper
+- REST APIs
+- Minimal APIs
+
+### 🗄️ Banco de Dados
+
+- SQL Server
+- PostgreSQL
+- MongoDB
+- Redis
+
+</td>
+
+<td valign="top" width="50%">
+
+### 📨 Mensageria
+
+- Apache Kafka
+- RabbitMQ
+
+### ☁️ Cloud & DevOps
+
+- Azure
+- AWS
+- Docker
+- Kubernetes
+- GitHub Actions
+
+### 🔍 Observabilidade
+
+- Datadog
+- Dynatrace
+
+### 🧪 Testes
+
+- xUnit
+- SpecFlow
+- WireMock
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Sobre mim no "modo dev":
+# 🏗️ Arquitetura & Engenharia de Software
 
-```csharp
-public class FilipiFirmino {
-    public string Role => "Backend Developer (.NET | C#)";
+```text
+✔ Clean Architecture
+✔ Domain-Driven Design (DDD)
+✔ SOLID
+✔ Clean Code
+✔ Design Patterns
+✔ CQRS
+✔ Event-Driven Architecture
+✔ Microservices
+✔ API Versioning
+✔ JWT Authentication
+✔ CI/CD
+```
 
-    public string[] Languages => { "C#", "JavaScript", "Python", "SQL" };
+---
 
-    public string[] Tools => { "ASP.NET Core", "Entity Framework", "MongoDB", 
-                               "Node.js", "Express", "React", "Redux" };
+# 🚀 Atualmente
 
-    public string[] Interests => { "Clean Architecture", "DDD","TDD", "OO", "Microservices",
-                                   "Cloud Computing", "Testing & Quality"};
-    
-    public string[] Values => { "Clean Code", "Best pratices", "Continuos evolution" };
-}
-````
+🔭 Desenvolvendo APIs e microsserviços utilizando .NET.
 
-🚀 O que tenho feito por aqui:
-<ul>
- <li>Explorando .NET avançado e práticas de arquitetura limpa</li>
- <li>Estudando padrões de projeto e DDD para criar sistemas robustos</li>
- <li>Trabalhando em projetos que envolvem SQL, MongoDB e microserviços</li>
- <li>Compartilhando aprendizados e evoluindo a cada commit</li>
-</ul>
+📚 Estudando arquitetura distribuída, Cloud Native, observabilidade e sistemas escaláveis.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filipifirmino&show_icons=true&theme=dark&title_color=87f299&text_color=ffffff&locale=pt-br" alt="filipifirmino" /></p>
+⚡ Buscando constantemente aprender novas tecnologias e compartilhar conhecimento através dos meus projetos.
 
-Minhas redes sociais :space_invader: <br>
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/filipifirmino/) 
+---
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=filipifirmino&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=filipifirmino&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🌎 Vamos nos conectar?
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/filipifirmino/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Curiosidades
+
+- ☕ Café sempre ajuda a resolver bugs.
+- 🧠 Estou sempre estudando alguma tecnologia nova.
+- 🏗️ Gosto de discutir arquitetura tanto quanto escrever código.
+- 🚀 Acredito que software de qualidade nasce de boas decisões técnicas, não apenas de boas ferramentas.
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 😄
+
+Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios ou entrar em contato.
+
+⭐ Sempre aberto para trocar ideias sobre .NET, Arquitetura de Software e Back-end.
+
+</div>
